@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS-source\\WebApplication3-viewmodal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0188E0-FBCE-4EDC-A52B-5A67537549BD}|WebApplication3-viewmodal\\WebApplication3-viewmodal.csproj|d:\\cs-source\\webapplication3-viewmodal\\webapplication3-viewmodal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF0188E0-FBCE-4EDC-A52B-5A67537549BD}|WebApplication3-viewmodal\\WebApplication3-viewmodal.csproj|solutionrelative:webapplication3-viewmodal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\CS-source\\WebApplication3-viewmodal\\WebApplication3-viewmodal\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3-viewmodal\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\CS-source\\WebApplication3-viewmodal\\WebApplication3-viewmodal\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication3-viewmodal\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T14:10:42.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
